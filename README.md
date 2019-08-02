@@ -51,7 +51,7 @@ b) Niveau Moyen
 
 
 
-Combien y a t'il d'albums dont le titre contient "Great" ? (indice)
+Combien y a t'il d'albums dont le titre contient "Great" ? 
   
   Track.where("title LIKE ?", "%Great%").count
 
