@@ -31,12 +31,19 @@ Things you may want to cover:
 
 
 Quel est le nombre total d'objets Album contenus dans la base (sans regarder les id bien sûr) ?
-   	347
+   	
+	347
+
 Qui est l'auteur de la chanson "White Room" ?
-  	Eric Clapton
+  	
+	Eric Clapton
+
 Quelle chanson dure exactement 188133 milliseconds ?
-  	Derfect
+  	
+	Derfect
+
 Quel groupe a sorti l'album "Use Your Illusion II" ?
+	
 	Guns N Roses
 
 
